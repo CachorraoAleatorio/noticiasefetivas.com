@@ -31,3 +31,6 @@ body{
     left: 0;
     right: 0;
 }
+a{
+    text-decoration: dotted underline;
+}
