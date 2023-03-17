@@ -18,6 +18,9 @@ body{
     background-color: #FEFFDB;
 }
 .arvore-sabia{
-    height: 200px;
-    width: 400px;
+    height: 75px;
+    width: 100px;
+}
+.titulo{
+    height: 100px;
 }
