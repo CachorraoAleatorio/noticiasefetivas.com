@@ -1,0 +1,23 @@
+p{
+    font-family: "Comic Neue", sans-serif;
+    color: rgb(26, 18, 11);
+}
+h4{
+    font-family: "Comic Neue", sans-serif;
+    color: rgb(26, 18, 11);
+}
+h2{
+    font-family: "Comic Neue", sans-serif;
+    color: #444444;
+}  
+h1{
+    font-family: "Comic Neue", sans-serif;
+    color: #444444;
+}
+body{
+    background-color: #FEFFDB;
+}
+.arvore-sabia{
+    height: 200px;
+    width: 400px;
+}
