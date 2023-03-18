@@ -17,6 +17,9 @@ h1{
 body{
     background-color: #FEFFDB;
 }
+.cachorro{
+    height: 125px;
+}
 .arvore-sabia{
     height: 75px;
     width: 100px;
